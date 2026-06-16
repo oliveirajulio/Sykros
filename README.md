@@ -1,3 +1,5 @@
+![Banner](assets/banner.svg)
+
 # 📊 SYKROS
 
 ### AI-Powered Business Intelligence Platform
