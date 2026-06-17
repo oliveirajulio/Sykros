@@ -13,7 +13,7 @@
 
 ---
 
-![About](assets/about.png)
+# About
 
 Sykros is an AI-powered Business Intelligence SaaS designed for small and medium-sized businesses.
 
