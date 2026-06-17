@@ -88,25 +88,7 @@ Artificial Intelligence is responsible for:
 
 # Architecture
 
-```text
-                Frontend
-         React • Next.js • Tailwind
-                   │
-                   ▼
-              REST API
-                   │
-                   ▼
-         Business Processing Engine
-                   │
-         ┌─────────┴─────────┐
-         │                   │
-         ▼                   ▼
- Business Calculations     AI Engine
-         │                   │
-         └─────────┬─────────┘
-                   ▼
-          Dashboard & Reports
-```
+![Architecture](assets/architecture.png)
 
 ---
 
@@ -163,25 +145,25 @@ Artificial Intelligence is responsible for:
 
 ## AI Analysis
 
-> AI Analysis Screenshot
+![AiAnalysis](assets/aianalized.png)
 
 ---
 
 ## Executive Report
 
-> Report Screenshot
+![Report](assets/report.png)
 
 ---
 
 ## Charts
 
-> Charts Screenshot
+![Charts](assets/charts.png)
 
 ---
 
 ## Action Plan
 
-> Action Plan Screenshot
+![Plan](assets/plan.png)
 
 ---
 
