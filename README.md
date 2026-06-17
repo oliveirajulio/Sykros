@@ -1,8 +1,6 @@
 ![Banner](assets/banner.png)
 
-# 📊 SYKROS
-
-### AI-Powered Business Intelligence Platform
+### Business Intelligence Platform
 
 > Transform business reports into strategic decisions using Artificial Intelligence.
 
@@ -175,13 +173,13 @@ Artificial Intelligence is responsible for:
 
 ## Dashboard
 
-> Dashboard Screenshot
+![Dashboard](assets/dashboard.png)
 
 ---
 
 ## Upload
 
-> Upload Screen
+![Upload](assets/upload.png)
 
 ---
 
