@@ -23,7 +23,7 @@ Users simply upload their reports in PDF, Excel, or CSV format, and the platform
 
 ---
 
-# ⚡ Workflow
+# Workflow
 
 ```text
                 PDF
@@ -51,7 +51,7 @@ Users simply upload their reports in PDF, Excel, or CSV format, and the platform
 
 ---
 
-# ✨ Features
+# Features
 
 - 📂 Upload PDF, Excel and CSV reports
 - 🤖 AI-powered business analysis
@@ -67,7 +67,7 @@ Users simply upload their reports in PDF, Excel, or CSV format, and the platform
 
 ---
 
-# 📈 Business Analytics
+# Business Analytics
 
 Sykros automatically calculates dozens of operational and financial indicators, including:
 
@@ -93,7 +93,7 @@ Sykros automatically calculates dozens of operational and financial indicators, 
 
 ---
 
-# 🧠 Artificial Intelligence
+# Artificial Intelligence
 
 Artificial Intelligence is responsible for:
 
@@ -108,7 +108,7 @@ Artificial Intelligence is responsible for:
 
 ---
 
-# 🏗 Architecture
+# Architecture
 
 ```text
                 Frontend
@@ -132,7 +132,7 @@ Artificial Intelligence is responsible for:
 
 ---
 
-# ⚙️ Tech Stack
+# Tech Stack
 
 ## Frontend
 
@@ -169,7 +169,7 @@ Artificial Intelligence is responsible for:
 
 ---
 
-# 📸 Screenshots
+# Screenshots
 
 ## Dashboard
 
@@ -207,7 +207,7 @@ Artificial Intelligence is responsible for:
 
 ---
 
-# 👨‍💻 My Role
+# My Role
 
 **Co-owner & Full Stack Developer**
 
@@ -227,7 +227,7 @@ Responsible for the complete development of the platform, including:
 
 ---
 
-# 🎯 Project Goals
+# Project Goals
 
 Sykros was created to simplify business decision-making by combining operational metrics, artificial intelligence, and data visualization into a single platform.
 
@@ -235,7 +235,7 @@ The objective is to reduce the time managers spend interpreting reports while im
 
 ---
 
-# 📌 Roadmap
+# Roadmap
 
 - ✅ Authentication
 - ✅ Dashboard
@@ -252,7 +252,7 @@ The objective is to reduce the time managers spend interpreting reports while im
 
 ---
 
-# 🔒 Proprietary Software
+# Proprietary Software
 
 This repository showcases the product documentation and project overview.
 
@@ -263,7 +263,7 @@ If you are interested in discussing the technical architecture or development pr
 ---
 
 
-# 📄 License
+# License
 
 Copyright © 2026 Julio Cesar Oliveira.
 
