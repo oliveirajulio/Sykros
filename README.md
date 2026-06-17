@@ -25,29 +25,7 @@ Users simply upload their reports in PDF, Excel, or CSV format, and the platform
 
 # Workflow
 
-```text
-                PDF
-             Excel
-              CSV
-               │
-               ▼
-      Document Processing
-               │
-               ▼
-     Business Calculations
-               │
-               ▼
-     Artificial Intelligence
-        │        │        │
-        ▼        ▼        ▼
-    Insights  Charts  Risks
-               │
-               ▼
-      Executive Dashboard
-               │
-               ▼
-         Action Plan
-```
+![Workflow](assets/workflow.png)
 
 ---
 
