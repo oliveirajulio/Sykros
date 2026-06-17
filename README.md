@@ -262,21 +262,10 @@ If you are interested in discussing the technical architecture or development pr
 
 ---
 
-# 📬 Contact
-
-**Julio Cesar de Oliveira**
-
-Full Stack Developer • Co-owner @ Sykros
-
-- LinkedIn
-- GitHub
-- Email
-
----
 
 # 📄 License
 
-Copyright © 2026 Julio Cesar de Oliveira.
+Copyright © 2026 Julio Cesar Oliveira.
 
 All Rights Reserved.
 
