@@ -60,14 +60,14 @@ Sykros automatically calculates dozens of operational and financial indicators, 
 
 ### Inventory & Operations
 
-- GMROI (Gross Margin Return on Inventory Investment)
-- Giro de Estoque
-- Cobertura de Estoque
-- Estoque de Segurança
-- Ponto de Ressuprimento (ROP)
-- Lote Econômico de Compra (EOQ)
-- Curva ABC
-- Performance por período
+- Gross-Margin-Return-on-Inventory-Investment (GMROI)
+- Inventory-Turnover
+- Inventory-Coverage
+- Safety-Stock
+- Reorder-Point (ROP)
+- Economic-Order-Quantity (EOQ)
+- ABC-Analysis
+- Performance-Over-Time
 
 ---
 
