@@ -21,6 +21,8 @@ The platform transforms operational and financial reports into intelligent dashb
 
 Users simply upload their reports in PDF, Excel, or CSV format, and the platform automatically processes the data, calculates key business indicators, generates AI-driven analyses, and presents strategic recommendations through an intuitive dashboard.
 
+![Sykros Demo](assets/demo.gif)
+
 ---
 
 # Workflow
